@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.4c6cb6ad.css",
-    "main.js": "/personal-website/static/js/main.a728b066.js",
+    "main.css": "/personal-website/static/css/main.c7f0546a.css",
+    "main.js": "/personal-website/static/js/main.a54ee5fe.js",
     "static/js/787.fb771931.chunk.js": "/personal-website/static/js/787.fb771931.chunk.js",
     "static/media/miso.png": "/personal-website/static/media/miso.02db85a9a2600e0dd469.png",
     "static/media/nourishNow.png": "/personal-website/static/media/nourishNow.dba60efd1aa042dba06c.png",
@@ -12,19 +12,19 @@
     "static/media/CentraNo2-Book.ttf": "/personal-website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/mountain.jpg": "/personal-website/static/media/mountain.903cc7f4079bd043e1bb.jpg",
     "static/media/liftmate.png": "/personal-website/static/media/liftmate.e6203622dd82f8870af3.png",
+    "static/media/drawingofme.jpg": "/personal-website/static/media/drawingofme.9d1b93fe2f877ece5978.jpg",
     "static/media/battleship.png": "/personal-website/static/media/battleship.c76cb05e2d285274818c.png",
-    "static/media/parisday.JPG": "/personal-website/static/media/parisday.f8ada8aaf5a6cd7a1742.JPG",
     "static/media/logo.svg": "/personal-website/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
     "static/media/nav-icon3.svg": "/personal-website/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
     "static/media/nav-icon2.svg": "/personal-website/static/media/nav-icon2.26b8cb557a2b7313a5de37a032df7522.svg",
     "index.html": "/personal-website/index.html",
     "static/media/nav-icon1.svg": "/personal-website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.4c6cb6ad.css.map": "/personal-website/static/css/main.4c6cb6ad.css.map",
-    "main.a728b066.js.map": "/personal-website/static/js/main.a728b066.js.map",
+    "main.c7f0546a.css.map": "/personal-website/static/css/main.c7f0546a.css.map",
+    "main.a54ee5fe.js.map": "/personal-website/static/js/main.a54ee5fe.js.map",
     "787.fb771931.chunk.js.map": "/personal-website/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c6cb6ad.css",
-    "static/js/main.a728b066.js"
+    "static/css/main.c7f0546a.css",
+    "static/js/main.a54ee5fe.js"
   ]
 }
