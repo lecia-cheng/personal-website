@@ -1,6 +1,6 @@
 import { Container, Row , Col } from "react-bootstrap";
 import { useState, useEffect } from "react";
-import headerImg from "../assets/img/drawingofme.jpg";
+import headerImg from "../assets/img/picofme.jpg";
 
 export const Banner = () => {
     const [loopNum, setLoopNum] = useState(0);
